@@ -1,6 +1,6 @@
 <template>
-    <v-card>
-        <div class="d-flex justify-space-between">
+    <v-card elevation="3">
+        <div class="d-flex justify-space-between px-2 py-2">
             <v-card-title
                 ><v-icon>mdi-account</v-icon> Student List</v-card-title
             >

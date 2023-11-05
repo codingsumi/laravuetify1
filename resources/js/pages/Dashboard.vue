@@ -6,7 +6,7 @@
             <v-col>
                 <v-card color="primary">
                     <div class="d-flex flex-no-wrap justify-space-between">
-                        <v-card-title
+                        <v-card-title class=""
                             ><v-icon>mdi-account-multiple</v-icon>
                             Employees</v-card-title
                         >

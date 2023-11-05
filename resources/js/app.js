@@ -1,5 +1,5 @@
-import './bootstrap';
-import '../css/vuetify.min.css';
+import 'vuetify/dist/vuetify.css';
+import 'vuetify/dist/vuetify.min.css';
 import { createApp } from 'vue';
 import App from './App.vue';
 import vuetify from './vuetify';
